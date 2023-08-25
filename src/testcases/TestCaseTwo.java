@@ -4,7 +4,7 @@ public class TestCaseTwo {
 
 	public static void main(String[] args) {
 
-		System.out.println("This is Test Case Two");
+		System.out.println("This is TestCase Two");
 	}
 
 }
